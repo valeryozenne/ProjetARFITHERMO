@@ -16,9 +16,9 @@ Simulations à effectuer:
 |acq 12 | 7ms |  216V | 1000ms  |  Arfi et Temperature|  20 |  40| 21 *4 shots | 60 acquisitions |
 |acq 22|  7ms |  216V | 2000ms  |  Arfi et Temperature|  20 |  40| 21 *4 shots | 60 acquisitions |
 |acq 26|  8ms |  216V | 2000ms |   Arfi et Temperature|  20 |  40| 21 *4 shots | 50 acquisitions |
-|acq 42|  8ms |  204V |            |   Arfi|  |   15 |  25| 11 *4 shots | 30 acquisitions |
-|acq 44|  8ms |  192V |            |   Arfi|  |   15 |  25| 11 *4 shots | 30 acquisitions |
-|acq 46 | 8ms |  178V |            |   Arfi|  |   15 |  25| 11 *4 shots | 30 acquisitions |
+|acq 42|  8ms |  204V |            |   Arfi|    15 |  25| 11 *4 shots | 30 acquisitions |
+|acq 44|  8ms |  192V |            |   Arfi|    15 |  25| 11 *4 shots | 30 acquisitions |
+|acq 46 | 8ms |  178V |            |   Arfi|    15 |  25| 11 *4 shots | 30 acquisitions |
 
  
 ---------------------------------------------------------------
