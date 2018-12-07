@@ -11,8 +11,8 @@ Nouvelles coordonnées Matlab manip2 avec cône STL
 
 Simulations à effectuer:
 
-|   |Tir   | Tension  |TR   | Simu  | Start | Stop |
-|---|---|---|---|---|
+|   |Tir   | Tension  |TR   | Simu  | Start | Stop | nb shots | nb  acquisitions| 
+|---|---|---|---|---|---|---|---|---|
 |acq 12 | 7ms |  216V | 1000ms  |  Arfi et Temperature|  20 |  40| 21 *4 shots | 60 acquisitions |
 |acq 22|  7ms |  216V | 2000ms  |  Arfi et Temperature|  20 |  40| 21 *4 shots | 60 acquisitions |
 |acq 26|  8ms |  216V | 2000ms |   Arfi et Temperature|  20 |  40| 21 *4 shots | 50 acquisitions |
